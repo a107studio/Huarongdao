@@ -55,6 +55,12 @@
   position: absolute;
   left: 2.9333333333rem;
   bottom: 0.4533333333rem;
-  color: #888;
+  color: #e29623;
   font-size: 0.32rem; }
+  .news-content .password {
+    position: absolute;
+    right: 2.9333333333rem;
+    bottom: 0.4533333333rem;
+    color: #888;
+    font-size: 0.32rem; }
 /*# sourceMappingURL=index.css.map */
